@@ -1,8 +1,5 @@
 import java.util.Scanner;
 
-//SCRIPT PARA RODAR A APLICAÇÃO
- //java -classpath ".;../sqlite-jdbc-3.43.0.0.jar" Connect
-
 public class Main {
   public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
